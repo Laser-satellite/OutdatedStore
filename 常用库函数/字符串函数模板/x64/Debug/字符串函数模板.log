@@ -1,0 +1,9 @@
+﻿  stringTemplates.c
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\字符串函数模板\stringTemplates.c(18,45): warning C4020: “strcat_s”: 实参太多
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\字符串函数模板\stringTemplates.c(63,36): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\字符串函数模板\stringTemplates.c(64,36): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\字符串函数模板\stringTemplates.c(131,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“size_t”
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\字符串函数模板\stringTemplates.c(131,12): message : 请考虑在格式字符串中使用“%zd”
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\字符串函数模板\stringTemplates.c(139,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“size_t”
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\字符串函数模板\stringTemplates.c(139,12): message : 请考虑在格式字符串中使用“%zd”
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\字符串函数模板\stringTemplates.c(171,5): error C2198: “checkValid”: 用于调用的参数太少

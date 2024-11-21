@@ -1,0 +1,6 @@
+﻿  Queue.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(734,5): error MSB6006: “CL.exe”已退出，代码为 2。
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\数据结构模板\队列\Queue.c(52,6): error C2371: “remove”: 重定义；不同的基类型
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h(369,26): message : 参见“remove”的声明
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\数据结构模板\队列\Queue.c(79,12): warning C4133: “函数”: 从“Queue *”到“const char *”的类型不兼容
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\数据结构模板\队列\Queue.c(79,16): warning C4020: “remove”: 实参太多

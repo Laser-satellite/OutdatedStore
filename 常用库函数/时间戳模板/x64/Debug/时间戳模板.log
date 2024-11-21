@@ -1,0 +1,9 @@
+﻿  time.c
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\时间戳模板\time.c(7,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\时间戳模板\time.c(7,12): message : 请考虑在格式字符串中使用“%lld”
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\时间戳模板\time.c(7,12): message : 请考虑在格式字符串中使用“%Id”
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\时间戳模板\time.c(7,12): message : 请考虑在格式字符串中使用“%I64d”
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\时间戳模板\time.c(9,45): warning C4047: “函数”:“FILE **”与“FILE *”的间接级别不同
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\时间戳模板\time.c(9,40): warning C4024: “fopen_s”: 形参和实参 1 的类型不同
+D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\时间戳模板\time.c(9,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  时间戳模板.vcxproj -> D:\DevDataUniverse\VisualStudioUniverse\SubUniverse\常用库函数\时间戳模板\x64\Debug\时间戳模板.exe
